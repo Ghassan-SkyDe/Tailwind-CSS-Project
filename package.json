@@ -7,7 +7,7 @@
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
     "prettier": "npx prettier --write **/*.html"
   },
-  "author": "sky",
+  "author": "ghassan-skyde",
   "license": "ISC",
   "devDependencies": {
     "prettier-plugin-tailwindcss": "^0.2.2"
